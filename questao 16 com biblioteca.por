@@ -1,4 +1,5 @@
-/*16. Escolha de modo no Canva
+/* Contribuição Alex Hilleshein
+16. Escolha de modo no Canva
 Objetivo: Escolher um tipo de criação no Canva.
 Instruções:
 - Peça ao usuário para digitar uma letra:
