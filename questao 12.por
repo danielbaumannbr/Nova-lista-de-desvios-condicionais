@@ -28,7 +28,7 @@ programa {
     escreva("Bom!!")
     pare
     caso 4:
-    escreva("Muito bom!")
+    escreva("Muito legal!")
     pare
     caso 5:
     escreva("Perfeito")
@@ -44,7 +44,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 711; 
+ * @POSICAO-CURSOR = 667; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
